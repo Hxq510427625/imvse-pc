@@ -5,9 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/imvse-pc/',
   plugins: [react()],
-  server: {
-    host: 'localhost',
-    port: 3000,          
+  server: {       
     open: '/home.html'       
   }
 })
