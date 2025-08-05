@@ -22,7 +22,7 @@ export default function Information() {
        <p className="text-6xl text-customBlue font-bold absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 whitespace-nowrap tracking-wider">
           Information
         </p>
-        <img src="/mockImage.jpg" alt="society" className='w-full h-full object-cover' />
+        <img src="/imvse-pc/mockImage.jpg" alt="society" className='w-full h-full object-cover' />
       </div>
 
       <div className='w-4/5 mx-auto mt-10'>

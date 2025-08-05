@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="flex flex-col gap-4 md:w-1/2">
           <div>
             <div className="flex items-center gap-2 font-bold text-lg mb-2">
-              <img src="/logo.png" alt="IMVSE Logo" className="w-14 h-14" />
+              <img src="/imvse-pc/logo.png" alt="IMVSE Logo" className="w-14 h-14" />
               <span className="text-customOrange text-3xl font-extrabold">IMVSE</span>
             </div>
             <div className='pb-2'>Contact Person：{contactInfo.name}</div>

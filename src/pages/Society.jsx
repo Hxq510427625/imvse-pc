@@ -21,7 +21,7 @@ export default function Society() {
         <p className="text-6xl text-customBlueq font-bold absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 whitespace-nowrap tracking-wider">
           The Society
         </p>
-        <img src="/societyBanner.jpg" alt="society" className='w-full h-full object-cover object-[100%_35%]' />
+        <img src="/imvse-pc/societyBanner.jpg" alt="society" className='w-full h-full object-cover object-[100%_35%]' />
       </div>
 
       <div className='w-4/5 mx-auto mt-10'>

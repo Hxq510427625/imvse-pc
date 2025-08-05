@@ -3,38 +3,38 @@
 export const slides = [
     {
         id: 1,
-        image: '/homeImage1.jpg',
+        image: '/imvse-pc/homeImage1.jpg',
         title: 'Imvse Society',
         description: 'Join us for the world\'s leading conference on mine ventilation and safety'
     },
     {
         id: 2,
-        image: '/homeImage2.jpg',
+        image: '/imvse-pc/homeImage2.jpg',
         title: 'Research & Innovation',
         description: 'Advancing mine safety through cutting-edge research'
     },
     {
         id: 3,
-        image: '/homeImage3.JPG',
+        image: '/imvse-pc/homeImage3.JPG',
         title: 'Global Network',
         description: 'Connecting professionals worldwide in mine ventilation and safety'
     }
 ];
 // Tabs
 export const tabs = [
-    { id: 1, image: '/mockImage.jpg', label: 'Society', title: 'Society title', content: 'The Imvse Society (IMVSE) is dedicated to promoting the highest standards in mine ventilation and safety engineering through international cooperation and knowledge sharing.', link: '/society' },
-    { id: 2, image: '/mockImage.jpg', label: 'Conferences', title: 'Conferences title', content: 'We aim to advance mine ventilation and safety engineering worldwide through research, education, and collaboration.', link: '/conferences' },
-    { id: 3, image: '/mockImage.jpg', label: 'Publications', title: 'Publications title', content: 'To be the global leader in mine ventilation and safety engineering, setting standards for excellence and innovation.', link: '/national-groups' },
-    { id: 4, image: '/mockImage.jpg', label: 'National Groups', title: 'National Groups title', content: 'To be the global leader in mine ventilation and safety engineering, setting standards for excellence and innovation.', link: '/national-groups' }
+    { id: 1, image: '/imvse-pc/mockImage.jpg', label: 'Society', title: 'Society title', content: 'The Imvse Society (IMVSE) is dedicated to promoting the highest standards in mine ventilation and safety engineering through international cooperation and knowledge sharing.', link: '/society' },
+    { id: 2, image: '/imvse-pc/mockImage.jpg', label: 'Conferences', title: 'Conferences title', content: 'We aim to advance mine ventilation and safety engineering worldwide through research, education, and collaboration.', link: '/conferences' },
+    { id: 3, image: '/imvse-pc/mockImage.jpg', label: 'Publications', title: 'Publications title', content: 'To be the global leader in mine ventilation and safety engineering, setting standards for excellence and innovation.', link: '/national-groups' },
+    { id: 4, image: '/imvse-pc/mockImage.jpg', label: 'National Groups', title: 'National Groups title', content: 'To be the global leader in mine ventilation and safety engineering, setting standards for excellence and innovation.', link: '/national-groups' }
 ];
 // Corporate Members
 export const members = [
-    { id: 1, name: 'Mining Corp A', logo: '/mockImage.jpg' },
-    { id: 2, name: 'Safety Solutions B', logo: '/mockImage.jpg' },
-    { id: 3, name: 'Ventilation Tech C', logo: '/mockImage.jpg' },
-    { id: 4, name: 'Global Mining D', logo: '/mockImage.jpg' },
-    { id: 5, name: 'Safety First E', logo: '/mockImage.jpg' },
-    { id: 6, name: 'Mine Tech F', logo: '/mockImage.jpg' }
+    { id: 1, name: 'Mining Corp A', logo: '/imvse-pc/mockImage.jpg' },
+    { id: 2, name: 'Safety Solutions B', logo: '/imvse-pc/mockImage.jpg' },
+    { id: 3, name: 'Ventilation Tech C', logo: '/imvse-pc/mockImage.jpg' },
+    { id: 4, name: 'Global Mining D', logo: '/imvse-pc/mockImage.jpg' },
+    { id: 5, name: 'Safety First E', logo: '/imvse-pc/mockImage.jpg' },
+    { id: 6, name: 'Mine Tech F', logo: '/imvse-pc/mockImage.jpg' }
 ];
 
 
@@ -163,14 +163,14 @@ export const nationalGroups = [
                 "id": 1,
                 "name": "Prof/Dr. Belle",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 2,
                 "name": "Prof/Dr. Guangyao Si",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -182,14 +182,14 @@ export const nationalGroups = [
                 "id": 3,
                 "name": "Anna Luiza M. Ayres da Silva",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 4,
                 "name": "Claudio Lucio Lopes Pinto",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -201,14 +201,14 @@ export const nationalGroups = [
                 "id": 5,
                 "name": "Dr. Cherryl Allan",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 6,
                 "name": "Dr. Stephen Hardcastle",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -220,14 +220,14 @@ export const nationalGroups = [
                 "id": 7,
                 "name": "Prof. Shugang li",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 8,
                 "name": "Prof. Jun Deng",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -239,7 +239,7 @@ export const nationalGroups = [
                 "id": 9,
                 "name": "Juan Pablo Hurtado Cruz",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -251,14 +251,14 @@ export const nationalGroups = [
                 "id": 10,
                 "name": "Jean-Marie Mbuya",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 11,
                 "name": "Ben Bunda",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -270,7 +270,7 @@ export const nationalGroups = [
                 "id": 12,
                 "name": "Mr. Bob Leeming",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -282,14 +282,14 @@ export const nationalGroups = [
                 "id": 13,
                 "name": "Prof. Durga Panigrahi",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 14,
                 "name": "Prof. Devi Prasad Mishra",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -301,14 +301,14 @@ export const nationalGroups = [
                 "id": 15,
                 "name": "Mr. Riza Sani",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 16,
                 "name": "Dr. Nuhindro Priagung Widodo",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -320,7 +320,7 @@ export const nationalGroups = [
                 "id": 17,
                 "name": "Dr. Masahiro Inoue",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -332,7 +332,7 @@ export const nationalGroups = [
                 "id": 18,
                 "name": "Prof. Sergei Sabanov",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -344,7 +344,7 @@ export const nationalGroups = [
                 "id": 19,
                 "name": "Prof. Mallikarjun Pillalamarry",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -356,14 +356,14 @@ export const nationalGroups = [
                 "id": 20,
                 "name": "Prof. Jerzy Krawczyk",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 21,
                 "name": "Dr. Piotr Ostrogorski",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -375,14 +375,14 @@ export const nationalGroups = [
                 "id": 22,
                 "name": "Mr. Lave Michael",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 23,
                 "name": "Mr. Piolo Tailao",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -394,7 +394,7 @@ export const nationalGroups = [
                 "id": 24,
                 "name": "Daniel Gutierrez",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -406,14 +406,14 @@ export const nationalGroups = [
                 "id": 25,
                 "name": "Anu Mr",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 26,
                 "name": "Frederick Klose",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -425,14 +425,14 @@ export const nationalGroups = [
                 "id": 27,
                 "name": "MVSSA, Mr. Marthin van der Bank",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 28,
                 "name": "Mr. Vijay Nundlall",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -444,14 +444,14 @@ export const nationalGroups = [
                 "id": 29,
                 "name": "Dr. Eranda Perera, NIOSH",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             },
             {
                 "id": 30,
                 "name": "Prof. P Tuktaraja, South Dakota",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -463,7 +463,7 @@ export const nationalGroups = [
                 "id": 31,
                 "name": "Kellies Sambondu",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]
@@ -475,7 +475,7 @@ export const nationalGroups = [
                 "id": 32,
                 "name": "Dr. Tonderai Chikande",
                 "email": "",
-                "image": "/mockImage.jpg",
+                "image": "/imvse-pc/mockImage.jpg",
                 "description": ""
             }
         ]

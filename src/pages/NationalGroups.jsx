@@ -16,7 +16,7 @@ export default function NationalGroups() {
        <p className="text-6xl text-customBlue font-bold absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 whitespace-nowrap tracking-wider">
           National Groups
         </p>
-        <img src="/nationalBanner.jpg" alt="national groups" className='w-full h-full object-cover object-[100%_80%]' />
+        <img src="/imvse-pc/nationalBanner.jpg" alt="national groups" className='w-full h-full object-cover object-[100%_80%]' />
       </div>
 
       <div className='w-4/5 mx-auto mt-10'>

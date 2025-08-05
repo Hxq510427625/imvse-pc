@@ -6,6 +6,6 @@ export default defineConfig({
   base: '/imvse-pc/',
   plugins: [react()],
   server: {       
-    open: '/home.html'       
+    open: '/'       
   }
 })

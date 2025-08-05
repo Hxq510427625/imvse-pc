@@ -16,7 +16,7 @@ export default function Navbar() {
       <nav className="mx-auto flex items-center justify-between p-6 px-8" aria-label="Global">
         {/* Logo and Site Name */}
         <div className="flex lg:flex-1 items-center">
-          <img src="/logo.png" alt="IMVSE Logo" className="w-14 transition-transform duration-300 hover:scale-105" />
+          <img src="/imvse-pc/logo.png" alt="IMVSE Logo" className="w-14 transition-transform duration-300 hover:scale-105" />
           <Link to="/" className="-m-1.5 p-4 hover:text-gray-600 transition-all duration-300">
             <span className="text-customOrange text-3xl font-extrabold">IMVSE</span>
           </Link>
